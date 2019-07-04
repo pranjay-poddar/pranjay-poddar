@@ -1,2 +1,2 @@
 # Pranjay-Poddar
-Project based on new research project which is under process in fablab at SRM IST CHENNAI.
+Project based on new research,which is under process in fablab at SRMIST CHENNAI.
