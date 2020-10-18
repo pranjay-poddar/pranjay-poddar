@@ -1,5 +1,12 @@
 
   <img src="./Portfolio.gif" width="1000" title="hover text">
+  <p align='center'>
+<a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/linkedin.png?raw=true"></a>
+<a href="https://www.behance.net/pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
+
+</p>
   
 ### About Me:
 
@@ -14,7 +21,7 @@ I write blog posts, most of which you will find on my [personal website](https:/
 #### Channels
 I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) 
 <details>
- <summary><strong>other favorite posts</strong></summary>
+ <summary><strong>Links to Channel</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="400" src="co.png"></a>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="400" src="favicon.png"></a>
  
@@ -23,5 +30,6 @@ I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalytic
 💌 Sign up for my [channel's website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
 
 ---
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
 
 
