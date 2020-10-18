@@ -29,7 +29,7 @@ I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalytic
 💌 Sign up for my channel's [website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
-<h4>See Ya!💥  Stay Awesome!📢</h4>
+<h4>See Ya!💥  And Stay Awesome!📢</h4>
 <h4>Check out my repositories 👇 and get in touch for collaboration.💻⭐☎️
     
 
