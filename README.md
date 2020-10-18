@@ -9,14 +9,14 @@
 </p>
   
 ### About Me: :octocat:
-
-I love making websites and Apps.I'am passionate for open source development, web development, web designing and graphic designing.
+<h3> I love making websites and Apps.I'am passionate for open source development, web development, web designing and graphic designing.</h3
  ---
 
 ### My Digital Garden:🌱
 
 #### Blog Posts:🚀
-I write blog posts, most of which you will find on my [personal website](https://pranjay-poddar.github.io/portfolio/index.html) and on [medium](https://medium.com/data-science-community-srm/the-transition-from-graphic-design-to-ui-ux-design-c5a24f795be5?source=friends_link&sk=236622b1fa3ba4f19e2687845b2daa39).
+
+<h3>I write blog posts, most of which you will find on my [personal website](https://pranjay-poddar.github.io/portfolio/index.html) and on [medium](https://medium.com/data-science-community-srm/the-transition-from-graphic-design-to-ui-ux-design-c5a24f795be5?source=friends_link&sk=236622b1fa3ba4f19e2687845b2daa39). </h3>
 
 #### Channels:📺
 I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) 
