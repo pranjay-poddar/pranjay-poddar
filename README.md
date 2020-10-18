@@ -1,5 +1,5 @@
 <h3>Hello Folks!👋</h3>
-  <img src="./Portfolio.gif"  width="1000" title="hover text">
+  <img src="./Portfolio.gif" href="https://pranjay-poddar.github.io/portfolio/index.html" width="1000" title="hover text">
   <p align='center'>
 <a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/linkedin.png?raw=true"></a>
 <a href="https://www.behance.net/pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/behance.png?raw=true"></a>
