@@ -23,7 +23,6 @@ I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalytic
 <details>
  <summary><strong>Links to Channel</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
- <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="150" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/favicon.png"></a>
  
 </details>
 
