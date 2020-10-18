@@ -29,7 +29,7 @@ I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalytic
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
  
 </details>
-💌 Sign up for my [channel website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
+Sign up for my channel's website [💌](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
 
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
