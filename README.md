@@ -22,8 +22,8 @@ I write blog posts, most of which you will find on my [personal website](https:/
 I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) 
 <details>
  <summary><strong>Links to Channel</strong></summary>
- <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="400" src="co.png"></a>
- <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="400" src="favicon.png"></a>
+ <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="400" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
+ <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="400" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/favicon.png"></a>
  
 </details>
 
