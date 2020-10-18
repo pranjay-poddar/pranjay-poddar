@@ -25,6 +25,8 @@ I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalytic
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
  
 </details>
+#### Official Tenor-GIF Creator
+[Tenor Page](https://tenor.com/official/pranjay_poddar) 
 
 💌 Sign up for my [channel's website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
 
