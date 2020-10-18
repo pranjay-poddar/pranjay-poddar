@@ -1,10 +1,10 @@
 <h3>Hello Folks!👋</h3>
   <img src="./Portfolio.gif" width="1000" title="hover text">
   <p align='center'>
-<a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/linkedin.png?raw=true"></a>
-<a href="https://www.behance.net/pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/behance.png?raw=true"></a>
-<a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/linkedin.png?raw=true"></a>
+<a href="https://www.behance.net/pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/behance.png?raw=true"></a>
+<a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
 </p>
   
