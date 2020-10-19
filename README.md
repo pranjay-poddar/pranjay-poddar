@@ -17,7 +17,7 @@
 I write blog posts, most of which you will find on my [personal website](https://pranjay-poddar.github.io/portfolio/index.html) and on [medium](https://medium.com/data-science-community-srm/the-transition-from-graphic-design-to-ui-ux-design-c5a24f795be5?source=friends_link&sk=236622b1fa3ba4f19e2687845b2daa39).
 
 #### Channels:📺
-I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) 
+I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) and channel's [website](https://pranjay-poddar.github.io/catalytic_originals/)
 <details>
  <summary><strong>Links to Channels</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
