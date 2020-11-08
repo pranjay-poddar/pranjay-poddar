@@ -3,9 +3,9 @@
   <p align='center'>
 <a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/linkedin.png?raw=true"></a>
 <a href="https://www.behance.net/pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/behance.png?raw=true"></a>
-<a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-
+<a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/twitter.png?raw=true"></a>
+<a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/instagram.png?raw=true"></a>
+<a href="https://medium.com/@pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/medium.png?raw=true"></a>
 </p>
   
 ### About Me: :octocat:
