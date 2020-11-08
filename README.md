@@ -1,4 +1,4 @@
-<h3>Hello Fellow <coders/>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
   <a href="https://pranjay-poddar.github.io/portfolio/index.html"><img src="./Portfolio.gif"  width="1000" title="hover text"></a>
   <p align='center'>
 <a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/linkedin.png?raw=true"></a>
