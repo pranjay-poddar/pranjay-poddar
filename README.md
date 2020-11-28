@@ -14,7 +14,7 @@
 </p>
   
 ### About Me: :octocat:
-<p> I love making websites and Apps.I'am passionate for open source development, web development, web designing and graphic designing.</p>
+<p> I love making websites and Apps. I'am passionate for open source development, web development, web designing and graphic designing.</p>
 
 ### My Digital Garden:🌱
 
