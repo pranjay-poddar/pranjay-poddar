@@ -10,7 +10,7 @@
 <a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/twitter.png?raw=true"></a>
 <a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/instagram.png?raw=true"></a>
 <a href="https://medium.com/@pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/medium.png?raw=true"></a>
-<a href="https://www.youtube.com/catalyticoriginals"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/youtube.jpg?raw=true"></a>
+<a href="https://www.youtube.com/catalyticoriginals"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/youtube.png?raw=true"></a>
 </p>
   
 ### About Me: :octocat:
