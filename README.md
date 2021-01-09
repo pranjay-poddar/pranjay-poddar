@@ -23,6 +23,7 @@
 
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
+ <details>
  <summary><strong>Links to Channels</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
   <h2> Official Tenor-GIF Creator:</h2>
