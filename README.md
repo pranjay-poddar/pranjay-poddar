@@ -24,10 +24,10 @@
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
  <details>
- <summary><strong>Links to Channels</strong></summary>
- <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
+ <summary><strong>Links to Channel and Website</strong></summary>
+ <a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a>
   <h2> Official Tenor-GIF Creator:</h2>
-[Tenor Page](https://tenor.com/official/pranjay_poddar) 
+ <a href="https://tenor.com/official/pranjay_poddar">Tenor Page</a> 
 </details>
 
 💌 Sign up for my channel's [website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
