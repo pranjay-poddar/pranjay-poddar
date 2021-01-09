@@ -14,10 +14,10 @@
 <a href="https://medium.com/@pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/medium.png?raw=true"></a>
 <a href="https://www.youtube.com/catalyticoriginals"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/youtube.png?raw=true"></a>
 </p>
-<hr>
+
 <h2>About Me:</h2>
 <p> I'm a second year undergrad student persuing BTECH in CSE with specialisation in Cloud Computing. I love making websites and Apps, and have a keen interest in front-end development. I'am passionate for open source development, web development, web designing and graphic designing.</p>
-<hr>
+
 <h2>Blog Posts:</h2>
 I write blog posts, most of which you will find on my [personal website](https://pranjay-poddar.github.io/portfolio/index.html) and on [medium](https://medium.com/data-science-community-srm/the-transition-from-graphic-design-to-ui-ux-design-c5a24f795be5?source=friends_link&sk=236622b1fa3ba4f19e2687845b2daa39) .
 <hr>
@@ -29,7 +29,7 @@ I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalytic
   #### Official Tenor-GIF Creator:
 [Tenor Page](https://tenor.com/official/pranjay_poddar) 
 </details>
-<hr>
+
 💌 Sign up for my channel's [website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
