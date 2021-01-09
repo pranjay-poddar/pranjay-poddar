@@ -29,6 +29,7 @@
  <a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a> 
  <a href="https://pranjay-poddar.github.io/catalytic_originals/signup/index.html">Signup Page</a>
 </details>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
 <hr>
 <h4>See Ya! And Stay Awesome!💥</h4>
