@@ -27,13 +27,11 @@
  <summary><strong>Links to Channel and Website</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a>
  <a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a> 
+ <a href="https://pranjay-poddar.github.io/catalytic_originals/signup/index.html">Signup Page</a>
 </details>
-
-💌 Sign up for my channel's [website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
 <hr>
-<h4>See Ya!💥  And Stay Awesome!📢</h4>
-<h4>Check out my repositories 👇 and get in touch for collaborations.💻⭐☎️
+<h4>See Ya! And Stay Awesome!💥</h4>
+<h4>Check out my repositories below and get in touch for collaborations.☎️
     
 
