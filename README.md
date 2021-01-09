@@ -25,9 +25,9 @@
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
  <details>
  <summary><strong>Links to Channel and Website</strong></summary>
- <a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a>
- <a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a> 
- <a href="https://pranjay-poddar.github.io/catalytic_originals/signup/index.html">Signup Page</a>
+ <p><a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a></p>
+ <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
+ <p><a href="https://pranjay-poddar.github.io/catalytic_originals/signup/index.html">Signup Page</a></p>
 </details>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
