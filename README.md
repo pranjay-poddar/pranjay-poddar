@@ -19,14 +19,13 @@
 <p> I'm a second year undergrad student persuing BTECH in CSE with specialisation in Cloud Computing. I love making websites and Apps, and have a keen interest in front-end development. I'am passionate for open source development, web development, web designing and graphic designing.</p>
 
 <h2>Blog Posts:</h2>
-I write blog posts, most of which you will find on my [personal website](https://pranjay-poddar.github.io/portfolio/index.html) and on [medium](https://medium.com/data-science-community-srm/the-transition-from-graphic-design-to-ui-ux-design-c5a24f795be5?source=friends_link&sk=236622b1fa3ba4f19e2687845b2daa39).
+<p>I write technical blog posts and, most of which you will find on my website or on medium. I assiduously contribute to development community and like to help other fellow developers on twitter.</p>
 
 <h2>Channels:</h2>
-I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) and channel's [website](https://pranjay-poddar.github.io/catalytic_originals/)
-<details>
+<p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
  <summary><strong>Links to Channels</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/"><img width="600" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/images/co.png"></a>
-  #### Official Tenor-GIF Creator:
+  <h2> Official Tenor-GIF Creator:</h2>
 [Tenor Page](https://tenor.com/official/pranjay_poddar) 
 </details>
 
