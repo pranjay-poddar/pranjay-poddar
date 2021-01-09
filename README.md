@@ -26,8 +26,7 @@
  <details>
  <summary><strong>Links to Channel and Website</strong></summary>
  <a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a>
-  <h2> Official Tenor-GIF Creator:</h2>
- <a href="https://tenor.com/official/pranjay_poddar">Tenor Page</a> 
+ <a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a> 
 </details>
 
 💌 Sign up for my channel's [website](https://pranjay-poddar.github.io/catalytic_originals/signup/index.html)
