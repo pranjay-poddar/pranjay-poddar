@@ -15,13 +15,13 @@
 <a href="https://www.youtube.com/catalyticoriginals"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/youtube.png?raw=true"></a>
 </p>
 <hr>
-### About Me:
+<h2>About Me:</h2>
 <p> I'm a second year undergrad student persuing BTECH in CSE with specialisation in Cloud Computing. I love making websites and Apps, and have a keen interest in front-end development. I'am passionate for open source development, web development, web designing and graphic designing.</p>
 <hr>
-### Blog Posts:
+<h2>Blog Posts:</h2>
 I write blog posts, most of which you will find on my [personal website](https://pranjay-poddar.github.io/portfolio/index.html) and on [medium](https://medium.com/data-science-community-srm/the-transition-from-graphic-design-to-ui-ux-design-c5a24f795be5?source=friends_link&sk=236622b1fa3ba4f19e2687845b2daa39) .
 <hr>
-### Channels:
+<h2>Channels:</h2>
 I have a youtube channel [Catalytic Originals](https://www.youtube.com/catalyticoriginals) and channel's [website](https://pranjay-poddar.github.io/catalytic_originals/)
 <details>
  <summary><strong>Links to Channels</strong></summary>
