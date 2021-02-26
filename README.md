@@ -31,6 +31,7 @@
 </details>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&theme=radical)
+<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" />
 <hr>
 <h4>See Ya! And Stay Awesome!💥</h4>
 <h4>Check out my repositories below and get in touch for collaborations.☎️
