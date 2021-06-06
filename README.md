@@ -16,7 +16,7 @@
 </p>
 
 <h2>About Me:</h2>
-<p> I'm a second year undergrad student persuing BTECH in CSE with specialisation in Cloud Computing. I love making websites and Apps, and have a keen interest in front-end development. I'am passionate for open source development, web development, web designing and graphic designing.</p>
+<p> I'm a third year undergraduate student persuing BTECH in CSE with specialisation in Cloud Computing. I love making websites and Apps, and have a keen interest in front-end development. I'am passionate for open source development, web development, web designing and graphic designing.</p>
 
 <h2>Blog Posts:</h2>
 <p>I write technical blog posts and, most of which you will find on my website or on medium. I assiduously contribute to development community and like to help other fellow developers on twitter.</p>
