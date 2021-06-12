@@ -24,10 +24,10 @@
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
  <details>
- <summary><strong>Links to Channel and Website</strong></summary>
+ <summary><strong>Links to Portfolio, Channel Website and Tenor Page</strong></summary>
+ <p><a href="https://pranjay.tech">Portfolio</a></p>
  <p><a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a></p>
  <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
- <p><a href="https://pranjay-poddar.github.io/catalytic_originals/signup/index.html">Signup Page</a></p>
 </details>
 
  <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's's github stats" /><img align="centre" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" />
