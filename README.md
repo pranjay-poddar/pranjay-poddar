@@ -32,6 +32,7 @@
 
  <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's's github stats" /><img align="centre" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" />
 <hr>
-![](https://komarev.com/ghpvc/?username=pranjay-poddar&style=flat-square)
+![](https://komarev.com/ghpvc/?username=pranjay-poddar)
+
 <h4>See Ya! And Stay Awesome!💥</h4>
 <h4>Check out my repositories below and get in touch for collaborations.</h4>
