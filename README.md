@@ -22,7 +22,7 @@
 <p>I write technical blog posts and, most of which you will find on my website or on medium. I assiduously contribute to development community and like to help other fellow developers on twitter.</p>
 
 <h2>Tools And Technologies:</h2>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
