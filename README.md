@@ -21,6 +21,9 @@
 <h2>Blog Posts:</h2>
 <p>I write technical blog posts and, most of which you will find on my website or on medium. I assiduously contribute to development community and like to help other fellow developers on twitter.</p>
 
+<h2>Tools And Technologies:</h2>
+
+
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
  <details>
@@ -33,7 +36,7 @@
  <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's's github stats" /><img align="centre" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" />
 <hr>
 
-Profile Views- ![Visitor Count](https://profile-counter.glitch.me/{pranjay-poddar}/count.svg)
+![](https://komarev.com/ghpvc/?username=pranjay-poddar&style=flat-square)
 
 <h4>See Ya! And Stay Awesome!💥</h4>
 <h4>Check out my repositories below and get in touch for collaborations.</h4>
