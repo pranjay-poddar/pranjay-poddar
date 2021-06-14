@@ -55,7 +55,9 @@
 
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
+
 ![Views](https://img.shields.io/youtube/channel/views/UC7Pmr_UD715nTsNO9mmYQow?style=social) ![Subs](https://img.shields.io/youtube/channel/subscribers/UC7Pmr_UD715nTsNO9mmYQow?style=social)
+
  <details>
  <summary><strong>Links to Portfolio, Channel Website and Tenor Page</strong></summary>
  <p><a href="https://pranjay.tech">Portfolio</a></p>
