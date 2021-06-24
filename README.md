@@ -65,7 +65,9 @@
  <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
 </details>
 
- <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's's github stats" /><img align="centre" height="210px" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&langs_count=8)](https://github.com/pranjay-poddar/github-readme-stats)" />
+ <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's's github stats" />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&langs_count=8)](https://github.com/pranjay-poddar/github-readme-stats)
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=pranjay-poddar&style=flat-square)
