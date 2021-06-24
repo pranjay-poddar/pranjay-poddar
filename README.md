@@ -67,7 +67,7 @@
 
  <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's's github stats" />
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&layout=compact)](https://github.com/pranjay-poddar/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&langs_count=8&layout=compact&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2)](https://github.com/pranjay-poddar/github-readme-stats)
 
 <hr>
 
