@@ -69,7 +69,7 @@
  
   <img align="left" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&langs_count=10&layout=compact&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" />
 
-
+<br>
 
 ![](https://komarev.com/ghpvc/?username=pranjay-poddar&style=flat-square)
 
