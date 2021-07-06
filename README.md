@@ -69,7 +69,7 @@
  
   <img  height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="pranjay's most languages used stats" />
 
-![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&color=fafbfc&title_color=ff0087&text_color=a2a2a2&style=flat-square&label=WELCOME+DEVELOPERS+NO.)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
+![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&color=fafbfc&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+NO.)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
  
 
 <h4>See Ya! And Stay Awesome!💥</h4>
