@@ -71,6 +71,5 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+NO.)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
  
-
 <h4>See Ya! And Stay Awesome!💥</h4>
 <h4>Check out my repositories below and get in touch for collaborations.</h4>
