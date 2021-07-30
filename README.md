@@ -19,7 +19,7 @@
 <p>I'm a third-year undergraduate student pursuing BTECH in CSE with a specialization in Cloud Computing. I love making websites and Apps and have a keen interest in front-end development. I'm passionate about open source development, web development, web designing, and graphic designing.</p>
 
 <h2>Blog Posts:</h2>
-<p>I write technical blog posts and, most of which you will find on my website or on medium. I assiduously contribute to the development community and like to help other fellow developers on Twitter.</p>
+<p>I write technical blog posts, most of which you will find on my website and on medium. I assiduously contribute to the development community and like to help other fellow developers on Twitter.</p>
 
 <h2>Tools And Technologies:</h2>
 <p align="center">
