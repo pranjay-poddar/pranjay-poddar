@@ -19,7 +19,7 @@
 <p>I'm a third-year undergraduate student pursuing BTECH in CSE with a specialization in Cloud Computing. I love making websites and Apps and have a keen interest in front-end development. I'm passionate about open source development, web development, web designing, and graphic designing.</p>
 <table align="center">
   <tr>
-    <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor at GWOC'21</td>
+    <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
     <td style="border-right: 1px solid #eeeeef;"> 💻 Contributor at <a href="https://github.com/Hack-Club-SRM/HCSSoC">HCSSOC'21</a> </td>
     <td> 💻 Contributor at <a href="https://github.com/DevIncept">DCP'21</a> </td>
   </tr>
