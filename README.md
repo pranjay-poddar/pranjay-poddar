@@ -78,12 +78,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
  
- <details align="center">
-  <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pranjay-poddar&theme=xcode" />
-</p>
-</details>
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
