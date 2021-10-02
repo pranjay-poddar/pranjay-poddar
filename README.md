@@ -78,14 +78,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
  
- <details> GitHub Trophies 🏆
- <summary> GitHub Trophies 🏆 </summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranjay-poddar&column=4&margin-w=5&margin-h=5&theme=darkhub">
-  </a>
-</p>
- </details>
+
+  <details>
+ <summary><strong>GitHub Trophies 🏆</strong></summary>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=pranjay-poddar&column=4&margin-w=5&margin-h=5&theme=darkhub"></p>
+</details>
 
 
  
