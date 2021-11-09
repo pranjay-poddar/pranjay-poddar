@@ -22,8 +22,8 @@
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <a href="https://github.com/Hack-Club-SRM/HCSSoC">HCSSOC'21</a> </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <a href="https://github.com/DevIncept">DCP'21</a> </td>
-   <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Maintainer & Contributor at <a href="https://pranjay-poddar.github.io/Data-Structures-And-Algorithms/web_page/index.html">Hacktoberfest'21</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Contributor at <a href="https://github.com/DevIncept">DCP'21</a> </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Maintainer & Contributor at <a href="https://pranjay-poddar.github.io/Data-Structures-And-Algorithms/web_page/index.html">Hacktoberfest'21</a> </td>
   </tr>
 </table>
 
