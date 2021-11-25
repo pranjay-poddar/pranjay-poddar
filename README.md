@@ -17,7 +17,7 @@
 </p>
 
 <h2>About Me:</h2>
-<p>I'm a third-year undergraduate student pursuing BTECH in CSE with a specialization in Cloud Computing. I love making websites and Apps and have a keen interest in front-end development. I'm passionate about open source development, web development, web designing, and graphic designing.</p>
+<p>I'm a third-year undergraduate student pursuing BTECH in CSE with a specialization in Cloud Computing. I love developing websites, web apps and have a keen interest in front-end development. I'm passionate about open source development, web development, web designing, and graphic designing.</p>
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
