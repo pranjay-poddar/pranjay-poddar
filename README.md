@@ -74,11 +74,11 @@
  <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
 </details>
 
- <img align="left" height="190px" width="100px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's github stats" />
+ <img align="left" height="190px" width="500px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's github stats" />
  
 <!--   <img  height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="pranjay's most languages used stats" /> -->
 
-<img align="left" height="190px" width="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjay-poddar&theme=dark">
+<img align="left" height="190px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjay-poddar&theme=dark">
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
