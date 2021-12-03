@@ -75,11 +75,11 @@
 </details>
 
 <div align="left">
- <img align="left" height="190px" width="400px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's github stats" />
+ <img align="left" height="190px" width="350px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's github stats" />
  
 <!--   <img  height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="pranjay's most languages used stats" /> -->
 
-<img align="left" height="190px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjay-poddar&theme=dark&background=fafbfc00" alt="pranjay's github streak stats" />
+<img align="left" height="190px" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjay-poddar&theme=dark&background=fafbfc00" alt="pranjay's github streak stats" />
  </div>
 
 <br>
