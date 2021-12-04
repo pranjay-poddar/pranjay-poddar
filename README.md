@@ -28,7 +28,7 @@
 </table>
 
 <h2>Blog Posts:</h2>
-<p>I write technical blog posts, most of which you will find on my website and on medium. I assiduously contribute to the development community and like to help other fellow developers on Twitter.</p>
+<p>I write technical blog posts, most of which are available on my [website](https://pranjaypoddar.netlify.app/) and on [medium](https://medium.com/@pranjaypoddar). I assiduously contribute to the development community and like to help other fellow developers on Twitter.</p>
 
 <h2>Tools And Technologies:</h2>
 <p align="center">
