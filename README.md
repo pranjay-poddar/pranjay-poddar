@@ -68,7 +68,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
  <br>
-<a href="h">ttps://www.credly.com/badges/43dfa67a-d420-4a18-8959-1df257330546?source=linked_in_profile"><img alt="AWS Cloud Practitioner" src="https://img.shields.io/badge/AWS Cloud Practitioner Certified-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/43dfa67a-d420-4a18-8959-1df257330546?source=linked_in_profile"><img alt="AWS Cloud Practitioner" src="https://img.shields.io/badge/AWS Cloud Practitioner Certified-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 </p>
 
 <h2>Channels:</h2>
