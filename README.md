@@ -89,7 +89,7 @@
  
 <!--   <img  height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="pranjay's most languages used stats" /> -->
 
-<img  height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjay-poddar&theme=dark&background=fafbfc00" alt="pranjay's github streak stats" />
+<img height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
  </div>
 
 <br>
