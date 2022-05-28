@@ -1,6 +1,6 @@
 <h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
  <p align='center'>
- <a href="https://pranjay-portfolio.web.app/"><img src="./intro.gif" width="1000" title="hover text"></a>
+ <a href="https://pranjaypoddar.live/"><img src="./intro.gif" width="1000" title="hover text"></a>
   </p>
   <p align='center'>
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -79,7 +79,7 @@
 
  <details>
  <summary><strong>Links to Portfolio, Channel Website and Tenor Page</strong></summary>
- <p><a href="https://pranjay.tech">Portfolio</a></p>
+ <p><a href="https://pranjaypoddar.live/">Portfolio</a></p>
  <p><a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a></p>
  <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
 </details>
