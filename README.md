@@ -61,16 +61,23 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<!-- <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
+<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <!-- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  -->
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+ </p>
  <br>
+ 
+<h2>Certifications:</h2>
+<p align="center">
 <a href="https://www.credly.com/badges/43dfa67a-d420-4a18-8959-1df257330546?source=linked_in_profile"><img alt="AWS Cloud Practitioner" src="https://img.shields.io/badge/AWS Cloud Practitioner Certified-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1aJRhrBRBZsNlefoPb3p4dRIXKE6GPQLZ/view?usp=sharing"><img alt="CS50x Certified" src="https://img.shields.io/badge/CS50x Certified-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1leUr6SneN8RYZ2bqmM8odZmGX8IYbMh0/view?usp=sharing"><img alt="Oracle" src="https://img.shields.io/badge/Oracle Database-23FF0000?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1xFjLSbnnaAwbPTr4RFLgF7zAzI62NhTI/view?usp=sharing"><img alt="Infytq Certified" src="https://img.shields.io/badge/Infytq Certified-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1xFjLSbnnaAwbPTr4RFLgF7zAzI62NhTI/view?usp=sharing"><img alt="Hackwithinfy Certified" src="https://img.shields.io/badge/Hackwithinfy Certified-2300C4CC?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 </p>
 
 <h2>Channels:</h2>
