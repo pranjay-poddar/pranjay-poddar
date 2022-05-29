@@ -71,6 +71,8 @@
  <br>
 <a href="https://www.credly.com/badges/43dfa67a-d420-4a18-8959-1df257330546?source=linked_in_profile"><img alt="AWS Cloud Practitioner" src="https://img.shields.io/badge/AWS Cloud Practitioner Certified-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 </p>
+<a href="https://drive.google.com/file/d/1aJRhrBRBZsNlefoPb3p4dRIXKE6GPQLZ/view?usp=sharing"><img alt="CS50x Certified" src="https://img.shields.io/badge/CS50x Certified-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+</p>
 
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
