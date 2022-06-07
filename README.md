@@ -1,4 +1,4 @@
-<h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"> </h2>
  <p align='center'>
  <a href="https://pranjaypoddar.live/"><img src="./intro.gif" width="1000" title="hover text"></a>
   </p>
