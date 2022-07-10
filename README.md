@@ -77,7 +77,7 @@
 <a href="https://drive.google.com/file/d/1aJRhrBRBZsNlefoPb3p4dRIXKE6GPQLZ/view?usp=sharing"><img alt="CS50x Certified" src="https://img.shields.io/badge/CS50x Certified-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
  <a href="https://drive.google.com/file/d/1leUr6SneN8RYZ2bqmM8odZmGX8IYbMh0/view?usp=sharing"><img alt="Oracle" src="https://img.shields.io/badge/Oracle Database-010101?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/b65c844e-db7a-4027-b7ee-1fef7d372144"><img alt="Google Cloud Badges" src="https://img.shields.io/badge/Google Cloud Badges-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
- <a href="https://drive.google.com/file/d/1xFjLSbnnaAwbPTr4RFLgF7zAzI62NhTI/view?usp=sharing"><img alt="Infytq & Hackwithinfy Certified" src="https://img.shields.io/badge/Infytq & Hackwithinfy Certified-23FF9900?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1xFjLSbnnaAwbPTr4RFLgF7zAzI62NhTI/view?usp=sharing"><img alt="Infytq & Hackwithinfy Certified" src="https://img.shields.io/badge/Infytq Certified & Hackwithinfy Qualified-23FF9900?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 
 <h2>Channels:</h2>
 <p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
