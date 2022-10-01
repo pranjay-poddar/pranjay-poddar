@@ -23,10 +23,11 @@
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <a href="https://github.com/Hack-Club-SRM/HCSSoC">HCSSOC'21</a> </td>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Contributor at <a href="https://github.com/DevIncept">DCP'21</a> </td>
-   <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Maintainer & Contributor at <a href="https://pranjay-poddar.github.io/Data-Structures-And-Algorithms/web_page/index.html">Hacktoberfest'21</a> </td>
+   <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Maintainer & Contributor at <a href="https://hacktoberfest.com/">Hacktoberfest'21</a> </td>
    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <a href="https://gssoc.girlscript.tech/">GSSOC'22</a> </td>
    <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://verification.givemycertificate.com/v/5b8c96f3-d735-49a8-8d91-f4b34f8d5db3">Codeflow'22</a></td>
    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Project Maintainer at <a href="https://soc.hackclubrait.co/#/Home">HSOC'22</a></td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Maintainer at <a href="https://github.com/pranjay-poddar/Dev-Geeks">Hacktoberfest'21</a> </td>
   </tr>
 </table>
 
