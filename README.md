@@ -32,7 +32,7 @@
 </table>
 
 <h2>Blog Posts:</h2>
-<p>I write technical blog posts, most of which are available on my <a href="https://pranjaypoddar.netlify.app/">website</a> and on <a href="https://medium.com/@pranjaypoddar">medium</a>. I assiduously contribute to the development community and like to help other fellow developers on Twitter.</p>
+<p>I'm a technical blogger and developer who loves to help others in the development community. I write technical blog posts and share them on my website and on Medium.If you have any questions or need help with anything, feel free to reach out to me on Twitter.</p>
 
 <h2>Tools And Technologies:</h2>
 <p align="center">
