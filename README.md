@@ -61,7 +61,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> 
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  -->
+<img alt="GPT-3" src="https://img.shields.io/badge/GPT-3-%23F24E1E.svg?&style=for-the-badge&logo=GPT-3&logoColor=white"/> 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -86,7 +86,7 @@
 [![@pranjaypoddar's Holopin board](https://holopin.me/pranjaypoddar)](https://holopin.io/@pranjaypoddar)
 
 <h2>Channels:</h2>
-<p>I have a youtube channel Catalytic Originals in which I post Vlogs, animations, music and educational videos.</p> 
+<p>I have a youtube channel Catalytic Originals in which I post travel vlogs, animations, music and educational videos.</p> 
 
 ![Views](https://img.shields.io/youtube/channel/views/UC7Pmr_UD715nTsNO9mmYQow?style=social) ![Subs](https://img.shields.io/youtube/channel/subscribers/UC7Pmr_UD715nTsNO9mmYQow?style=social)
 
