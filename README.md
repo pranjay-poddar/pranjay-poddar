@@ -17,7 +17,7 @@
 </p>
 
 <h2>About Me:</h2>
-<p>I'm a final year undergraduate student pursuing BTECH in CSE with a specialization in Cloud Computing. I love developing websites, web apps and have a keen interest in full-stack and software development. I'm passionate about open source development, web development, web designing, data structures & algorithms, competitive programming and graphic designing.</p>
+<p>Hi, I'm a Software Engineer working at Paypal as SDE-1. I'm passionate about open source development, web development, web designing, data structures & algorithms, competitive programming and graphic designing. I have a keen interest in full-stack and software development and I love developing softwares, websites, and web apps. I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on GitHub and collaborate with others in the open source community.</p>
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
