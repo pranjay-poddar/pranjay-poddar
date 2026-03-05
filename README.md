@@ -98,7 +98,6 @@
 </details>
 
 <div align="center">
- <p>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -109,19 +108,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/pranjay-poddar/swasthify"><b>Differ</b></a></td>
+      <td><a href="https://github.com/pranjay-poddar/swasthify"><b>Swasthify</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pranjay-poddar/swasthify?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pranjay-poddar/swasthify?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pranjay-poddar/Dev-Geeks"><b>Simple SQLite</b></a></td>
+      <td><a href="https://github.com/pranjay-poddar/Dev-Geeks"><b>Dev-Geeks</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pranjay-poddar/Dev-Geeks?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pranjay-poddar/Dev-Geeks?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
-</div>
-</p>
 <img height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
 </div>
 <br>
