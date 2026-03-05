@@ -97,13 +97,13 @@
  <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
 </details>
 
-<div align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="pranjay's github stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&text_color=a2a2a2&bg_color=00000000" width="380" height="200"/>
+</p>
  
 <!--   <img  height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="pranjay's most languages used stats" /> -->
 
 <img height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
- </div>
 
 <br>
 
