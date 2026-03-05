@@ -90,17 +90,31 @@
 
 ![Views](https://img.shields.io/youtube/channel/views/UC7Pmr_UD715nTsNO9mmYQow?style=social) ![Subs](https://img.shields.io/youtube/channel/subscribers/UC7Pmr_UD715nTsNO9mmYQow?style=social)
 
- <details>
- <summary><strong>Links to Portfolio, Channel Website and Tenor Page</strong></summary>
- <p><a href="https://pranjaypoddar.live/">Portfolio</a></p>
- <p><a href="https://pranjay-poddar.github.io/catalytic_originals/">Catalytic Original Website</a></p>
- <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
-</details>
+<div align="center">
+
+<a href="https://pranjaypoddar.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-ff0087?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranjay-poddar">
+<img src="https://img.shields.io/badge/LinkedIn-Pranjay%20Poddar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@CatalyticOriginals">
+<img src="https://img.shields.io/badge/YouTube-Catalytic%20Originals-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
 
 <div align="center">
-<table height="200px" width="380px">
+
+<table>
+<tr>
+<td>
+
+<table>
   <thead>
-    <tr border: none;>
+    <tr>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
@@ -119,17 +133,21 @@
     </tr>
   </tbody>
 </table>
-<img height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
- 
-
-  <details align="center">
- <summary><strong>GitHub Trophies 🏆</strong></summary>
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pranjay-poddar&column=4&margin-w=5&margin-h=5&theme=darkhub"></p>
-</details>
 
 
  
