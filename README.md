@@ -98,6 +98,7 @@
 </details>
 
 <div align="center">
+ <p>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -119,6 +120,8 @@
     </tr>
   </tbody>
 </table>
+</div>
+</p>
 <img height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
 </div>
 <br>
