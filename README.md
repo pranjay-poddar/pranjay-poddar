@@ -98,7 +98,7 @@
 </details>
 
 <div align="center">
-<table>
+<table height="200px" width="380px">
   <thead align="center">
     <tr border: none;>
       <td><b>📘 Project</b></td>
