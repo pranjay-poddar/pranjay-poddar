@@ -99,7 +99,7 @@
 
 <div align="center">
 <table height="200px" width="380px">
-  <thead align="center">
+  <thead>
     <tr border: none;>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
