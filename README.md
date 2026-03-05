@@ -97,14 +97,30 @@
  <p><a href="https://tenor.com/official/pranjay_poddar">Official Tenor Page</a></p>
 </details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjay-poddar&show_icons=true&count_private=true&title_color=ff0087&text_color=a2a2a2&bg_color=00000000" width="380" height="200"/>
-</p>
- 
-<!--   <img  height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjay-poddar&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="pranjay's most languages used stats" /> -->
-
+<div align="center">
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/pranjay-poddar/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pranjay-poddar/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pranjay-poddar/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pranjay-poddar/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pranjay-poddar/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pranjay-poddar/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 <img height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pranjay-poddar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
-
+</div>
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjay-poddar&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT)<a href="https://www.linkedin.com/in/pranjay-poddar/" target="_blank" rel="nofollow">
